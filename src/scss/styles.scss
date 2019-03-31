@@ -3,11 +3,13 @@
 // examples:
 // $body-bg: black;
 // $body-color: white;
-// $link-hover-color: grey;
+// $link-hover-color: white;
 // $font-family-sans-serif: "Helvetica Neue";
 
 // Import Bootstrap styles
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
 // Import partials here
-
+@import 'nav';
+@import 'jumbotron';
+@import 'article';

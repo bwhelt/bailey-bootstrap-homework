@@ -1,0 +1,58 @@
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.headline {
+  font-family: 'Germania One', cursive;
+  text-align: center; 
+  padding: .1rem;
+  color: white;
+  font-size: 2.75rem;
+
+}
+
+.byline{
+  font-family: 'Germania One', cursive;
+  text-align: center; 
+  font-size: 1rem;
+  border: .5rem;
+  color: white;
+
+}
+
+h4{
+  font-family: 'Germania One', cursive;
+  font-size: 1.75rem;
+}
+
+h5 {
+  font-family: 'Germania One', cursive;
+  font-size: 1.15rem;
+}
+
+h6{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: .75rem;
+  font-style: italic;
+  line-height: .3rem;
+}
+
+p {
+  font-size: .9rem;
+}
+
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: gray;
+  color: beige;
+  text-align: center;
+}
+
+#carouselExampleControls{
+  padding: 1rem;
+}
+
